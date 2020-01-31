@@ -1,4 +1,4 @@
-# Annular gear compatible to Lego™ technic bricks
+# Annular gear compatible to LEGO™ Technic bricks
 
 ![lego annular gear](/annular-gear.png)
 This annular gear was designed with the Bricklink part designer [https://www.bricklink.com/v3/studio/partdesigner.page](https://www.bricklink.com/v3/studio/partdesigner.page).
