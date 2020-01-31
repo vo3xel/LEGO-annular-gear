@@ -1,6 +1,6 @@
 # lego-annular-gear
 
-![lego annular gear](/annular-gear.png){:height="50%" width="50%"}
+![lego annular gear](/annular-gear.png)
 This annular gear was designed with the Bricklink part designer [https://www.bricklink.com/v3/studio/partdesigner.page](https://www.bricklink.com/v3/studio/partdesigner.page).
 
 
